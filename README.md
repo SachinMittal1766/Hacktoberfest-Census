@@ -62,6 +62,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [fromMaybe](https://github.com/fromMaybe)
  - [sarsiz](https://github.com/sarsiz)
  - [YashitM](https://github.com/YashitM)
+ - [SachinMittal1766](https://github.com/SachinMittal1766)
  - [Hazen91](https://github.com/Hazen91)
  - [ericduns](https://github.com/ericduns)
  - [carterschieffer](https://github.com/carterschieffer)
